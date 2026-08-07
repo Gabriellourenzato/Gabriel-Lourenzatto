@@ -37,7 +37,7 @@
 
 <td width="30%" align="center">
 
-<img src="https://github.com/SEU_USUARIO.png" width="180px"/>
+<img src="https://github.com/Gabriellourenzato.png" width="180px"/>
 
 <br><br>
 
@@ -52,7 +52,7 @@
 
 <br>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Gabriellourenzato">
 <img src="https://img.shields.io/badge/GitHub-Visit-111827?style=for-the-badge&logo=github"/>
 </a>
 
