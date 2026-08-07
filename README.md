@@ -74,12 +74,13 @@ Meu objetivo é evoluir constantemente e construir projetos cada vez mais comple
 
 ```python
 developer = {
-    "name": "Gabriel Dias",
-    "language": "Python",
+    "name": "Gabriel Lourenzatto",
+    "technics": "Python, JavaScript, Html, Css",
     "focus": [
         "Automation",
         "Python Scripts",
-        "Programming Logic"
+        "Programming Logic",
+        "web development"
     ],
     "status": "Always learning"
 }
