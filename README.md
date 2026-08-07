@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,50:4C1D95,100:00E5FF&text=GABRIEL%20DIAS&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=PYTHON%20%7C%20AUTOMATION%20%7C%20PROGRAMMING&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,50:4C1D95,100:00E5FF&text=GABRIEL%20LOURENZATTO&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=PYTHON%20%7C%20AUTOMATION%20%7C%20PROGRAMMING&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -12,7 +12,7 @@
 
 <br><br>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Gabriellourenzato">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -41,7 +41,7 @@
 
 <br><br>
 
-### `@SEU_USUARIO`
+### `@Gabriellourenzatto`
 
 **Python Developer**
 
